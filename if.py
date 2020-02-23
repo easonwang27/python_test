@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-# 文件名：test.py
+# 文件名：if.py
 
 if True:
     print ("Answer")
